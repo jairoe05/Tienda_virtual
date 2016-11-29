@@ -1,0 +1,12 @@
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\Backup\WebApplication1\bin\WebApplication1.dll
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\Backup\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\Backup\WebApplication1\bin\Oracle.DataAccess.dll
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\Backup\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\Backup\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\Backup\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\Jairo\examenprogra5\Pasado todo a posgre\ProyectoAmazonXML\Backup\WebApplication1\bin\WebApplication1.dll
+G:\Jairo\examenprogra5\Pasado todo a posgre\ProyectoAmazonXML\Backup\WebApplication1\bin\WebApplication1.pdb
+G:\Jairo\examenprogra5\Pasado todo a posgre\ProyectoAmazonXML\Backup\WebApplication1\bin\Oracle.DataAccess.dll
+G:\Jairo\examenprogra5\Pasado todo a posgre\ProyectoAmazonXML\Backup\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\Jairo\examenprogra5\Pasado todo a posgre\ProyectoAmazonXML\Backup\WebApplication1\obj\Debug\WebApplication1.dll
+G:\Jairo\examenprogra5\Pasado todo a posgre\ProyectoAmazonXML\Backup\WebApplication1\obj\Debug\WebApplication1.pdb
