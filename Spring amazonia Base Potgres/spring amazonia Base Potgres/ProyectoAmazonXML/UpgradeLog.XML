@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ProyectoAmazonXML">
+</Property><Property Name="Archivo de la solución" Value="G:\spring amazonia\ProyectoAmazonXML\ProyectoAmazonXML.sln">
+</Property><Property Name="Date" Value="miércoles, 14 de octubre de 2015">
+</Property><Property Name="Time" Value="13:58 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="WebApplication1" Source="WebApplication1\WebApplication1.csproj" Description="El archivo de proyecto no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="WebApplication1" Source="WebApplication1\WebApplication1.csproj" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="" Source="ProyectoAmazonXML.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ProyectoAmazonXML.sln" Description="Converted">
+</Event></UpgradeLog>

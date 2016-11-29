@@ -1,0 +1,45 @@
+C:\Users\Javier\Documents\PROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.dll
+C:\Users\Javier\Documents\PROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Javier\Documents\PROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Javier\Documents\PROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Javier\Documents\PROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\ProyectoAmazonXML\WebApplication1\bin\Oracle.DataAccess.dll
+C:\Users\Javier\Documents\PROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\AmazonXML\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.dll
+C:\Users\Administrador\Desktop\AmazonXML\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Administrador\Desktop\AmazonXML\ProyectoAmazonXML\WebApplication1\bin\Oracle.DataAccess.dll
+C:\Users\Administrador\Desktop\AmazonXML\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\AmazonXML\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Administrador\Desktop\AmazonXML\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Administrador\Desktop\AmazonXMLori\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\AmazonXMLori\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Administrador\Desktop\AmazonXMLori\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.dll
+C:\Users\Administrador\Desktop\AmazonXMLori\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Administrador\Desktop\AmazonXMLori\ProyectoAmazonXML\WebApplication1\bin\Oracle.DataAccess.dll
+C:\Users\Administrador\Desktop\AmazonXMLori\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.dll
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\WebApplication1\bin\Oracle.DataAccess.dll
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Javier\Documents\AAPROGRAMACION CUC\BASE DE DATOS ADECIO\AmazonXML\Amazonia WinServer\AmazonXMLori\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Javier\Documents\AAA  EXAMEN1 PROGRA 5\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.dll
+C:\Users\Javier\Documents\AAA  EXAMEN1 PROGRA 5\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Javier\Documents\AAA  EXAMEN1 PROGRA 5\ProyectoAmazonXML\WebApplication1\bin\Oracle.DataAccess.dll
+C:\Users\Javier\Documents\AAA  EXAMEN1 PROGRA 5\ProyectoAmazonXML\WebApplication1\bin\Npgsql.xml
+C:\Users\Javier\Documents\AAA  EXAMEN1 PROGRA 5\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\AAA  EXAMEN1 PROGRA 5\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Javier\Documents\AAA  EXAMEN1 PROGRA 5\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\Examen1 Progra 5\Pasado todo a posgre\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+H:\Examen1 Progra 5\Pasado todo a posgre\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.dll
+H:\Examen1 Progra 5\Pasado todo a posgre\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.dll
+H:\Examen1 Progra 5\Pasado todo a posgre\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.pdb
+H:\Examen1 Progra 5\Pasado todo a posgre\ProyectoAmazonXML\WebApplication1\bin\Oracle.DataAccess.dll
+H:\Examen1 Progra 5\Pasado todo a posgre\ProyectoAmazonXML\WebApplication1\bin\Npgsql.xml
+H:\Examen1 Progra 5\Pasado todo a posgre\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\spring amazonia\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.dll
+G:\spring amazonia\ProyectoAmazonXML\WebApplication1\bin\WebApplication1.pdb
+G:\spring amazonia\ProyectoAmazonXML\WebApplication1\bin\Oracle.DataAccess.dll
+G:\spring amazonia\ProyectoAmazonXML\WebApplication1\bin\Npgsql.xml
+G:\spring amazonia\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\spring amazonia\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.dll
+G:\spring amazonia\ProyectoAmazonXML\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2AC60C9D-F5B5-4FD0-B370-E991B5A7DB3C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="antlr.runtime, Version=2.7.6.2, Culture=neutral, PublicKeyToken=65e474d141e25e07, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\antlr.runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging, Version=1.2.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Common.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Mono.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=2.2.3.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=2.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="Spring.Aop, Version=1.1.2.20125, Culture=neutral, PublicKeyToken=65e474d141e25e07, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Spring.Aop.dll</HintPath>
+    </Reference>
+    <Reference Include="Spring.Core, Version=1.1.1.20001, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Spring.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Spring.Services, Version=1.1.2.20125, Culture=neutral, PublicKeyToken=65e474d141e25e07, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Spring.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Spring.Web, Version=1.1.1.20001, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Spring.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\img01.jpg" />
+    <Content Include="images\img02.jpg" />
+    <Content Include="images\img03.jpg" />
+    <Content Include="images\img04.gif" />
+    <Content Include="Login.aspx" />
+    <Content Include="LoginDistribuidor.aspx" />
+    <Content Include="LoginVendedor.aspx" />
+    <Content Include="Mantenimientos.aspx" />
+    <Content Include="MenuDistribuidor.aspx" />
+    <Content Include="MenuGerente.aspx" />
+    <Content Include="MenuUsuario.aspx" />
+    <Content Include="MenuVendedor.aspx" />
+    <Content Include="style.css" />
+    <Content Include="Temas\Login\css\bootstrap-theme.css" />
+    <Content Include="Temas\Login\css\bootstrap-theme.min.css" />
+    <Content Include="Temas\Login\css\bootstrap.css" />
+    <Content Include="Temas\Login\css\bootstrap.min.css" />
+    <Content Include="Temas\Login\css\style.css" />
+    <Content Include="Temas\Login\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Temas\Login\images\BG.jpg" />
+    <Content Include="Temas\Login\js\bootstrap.js" />
+    <Content Include="Temas\Login\js\bootstrap.min.js" />
+    <Content Include="Temas\Login\js\npm.js" />
+    <Content Include="Temas\MasterPage\css\animate.css" />
+    <Content Include="Temas\MasterPage\css\bootstrap.min.css" />
+    <Content Include="Temas\MasterPage\css\font-awesome.min.css" />
+    <Content Include="Temas\MasterPage\css\main.css" />
+    <Content Include="Temas\MasterPage\css\prettyPhoto.css" />
+    <Content Include="Temas\MasterPage\css\price-range.css" />
+    <Content Include="Temas\MasterPage\css\responsive.css" />
+    <Content Include="Temas\MasterPage\css\Style.css" />
+    <Content Include="Temas\MasterPage\fonts\fontawesome-webfont.svg" />
+    <Content Include="Temas\MasterPage\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Temas\MasterPage\images\404\404.png" />
+    <Content Include="Temas\MasterPage\images\blog\blog-one.jpg" />
+    <Content Include="Temas\MasterPage\images\blog\blog-three.jpg" />
+    <Content Include="Temas\MasterPage\images\blog\blog-two.jpg" />
+    <Content Include="Temas\MasterPage\images\blog\man-four.jpg" />
+    <Content Include="Temas\MasterPage\images\blog\man-one.jpg" />
+    <Content Include="Temas\MasterPage\images\blog\man-three.jpg" />
+    <Content Include="Temas\MasterPage\images\blog\man-two.jpg" />
+    <Content Include="Temas\MasterPage\images\blog\socials.png" />
+    <Content Include="Temas\MasterPage\images\cart\one.png" />
+    <Content Include="Temas\MasterPage\images\cart\three.png" />
+    <Content Include="Temas\MasterPage\images\cart\two.png" />
+    <Content Include="Temas\MasterPage\images\home\bg_border.png" />
+    <Content Include="Temas\MasterPage\images\home\gallery1.jpg" />
+    <Content Include="Temas\MasterPage\images\home\gallery2.jpg" />
+    <Content Include="Temas\MasterPage\images\home\gallery3.jpg" />
+    <Content Include="Temas\MasterPage\images\home\gallery4.jpg" />
+    <Content Include="Temas\MasterPage\images\home\girl1.jpg" />
+    <Content Include="Temas\MasterPage\images\home\girl2.jpg" />
+    <Content Include="Temas\MasterPage\images\home\girl3.jpg" />
+    <Content Include="Temas\MasterPage\images\home\iframe1.png" />
+    <Content Include="Temas\MasterPage\images\home\iframe2.png" />
+    <Content Include="Temas\MasterPage\images\home\iframe3.png" />
+    <Content Include="Temas\MasterPage\images\home\iframe4.png" />
+    <Content Include="Temas\MasterPage\images\home\logo.png" />
+    <Content Include="Temas\MasterPage\images\home\map.png" />
+    <Content Include="Temas\MasterPage\images\home\new.png" />
+    <Content Include="Temas\MasterPage\images\home\partner1.png" />
+    <Content Include="Temas\MasterPage\images\home\partner2.png" />
+    <Content Include="Temas\MasterPage\images\home\partner3.png" />
+    <Content Include="Temas\MasterPage\images\home\partner4.png" />
+    <Content Include="Temas\MasterPage\images\home\pricing.png" />
+    <Content Include="Temas\MasterPage\images\home\product1.jpg" />
+    <Content Include="Temas\MasterPage\images\home\product2.jpg" />
+    <Content Include="Temas\MasterPage\images\home\product3.jpg" />
+    <Content Include="Temas\MasterPage\images\home\product4.jpg" />
+    <Content Include="Temas\MasterPage\images\home\product5.jpg" />
+    <Content Include="Temas\MasterPage\images\home\product6.jpg" />
+    <Content Include="Temas\MasterPage\images\home\recommend1.jpg" />
+    <Content Include="Temas\MasterPage\images\home\recommend2.jpg" />
+    <Content Include="Temas\MasterPage\images\home\recommend3.jpg" />
+    <Content Include="Temas\MasterPage\images\home\sale.png" />
+    <Content Include="Temas\MasterPage\images\home\searchicon.png" />
+    <Content Include="Temas\MasterPage\images\home\shipping.jpg" />
+    <Content Include="Temas\MasterPage\images\product-details\1.jpg" />
+    <Content Include="Temas\MasterPage\images\product-details\new.jpg" />
+    <Content Include="Temas\MasterPage\images\product-details\rating.png" />
+    <Content Include="Temas\MasterPage\images\product-details\share.png" />
+    <Content Include="Temas\MasterPage\images\product-details\similar1.jpg" />
+    <Content Include="Temas\MasterPage\images\product-details\similar2.jpg" />
+    <Content Include="Temas\MasterPage\images\product-details\similar3.jpg" />
+    <Content Include="Temas\MasterPage\images\shop\advertisement.jpg" />
+    <Content Include="Temas\MasterPage\images\shop\product10.jpg" />
+    <Content Include="Temas\MasterPage\images\shop\product11.jpg" />
+    <Content Include="Temas\MasterPage\images\shop\product12.jpg" />
+    <Content Include="Temas\MasterPage\images\shop\product7.jpg" />
+    <Content Include="Temas\MasterPage\images\shop\product8.jpg" />
+    <Content Include="Temas\MasterPage\images\shop\product9.jpg" />
+    <Content Include="Temas\MasterPage\js\bootstrap.min.js" />
+    <Content Include="Temas\MasterPage\js\contact.js" />
+    <Content Include="Temas\MasterPage\js\gmaps.js" />
+    <Content Include="Temas\MasterPage\js\html5shiv.js" />
+    <Content Include="Temas\MasterPage\js\jquery.js" />
+    <Content Include="Temas\MasterPage\js\jquery.prettyPhoto.js" />
+    <Content Include="Temas\MasterPage\js\jquery.scrollUp.min.js" />
+    <Content Include="Temas\MasterPage\js\main.js" />
+    <Content Include="Temas\MasterPage\js\price-range.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginDistribuidor.aspx.cs">
+      <DependentUpon>LoginDistribuidor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginDistribuidor.aspx.designer.cs">
+      <DependentUpon>LoginDistribuidor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginVendedor.aspx.cs">
+      <DependentUpon>LoginVendedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginVendedor.aspx.designer.cs">
+      <DependentUpon>LoginVendedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Maestra.Master.cs">
+      <DependentUpon>Maestra.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Maestra.Master.designer.cs">
+      <DependentUpon>Maestra.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos.aspx.cs">
+      <DependentUpon>Mantenimientos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos.aspx.designer.cs">
+      <DependentUpon>Mantenimientos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDistribuidor.aspx.cs">
+      <DependentUpon>MenuDistribuidor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuDistribuidor.aspx.designer.cs">
+      <DependentUpon>MenuDistribuidor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuGerente.aspx.cs">
+      <DependentUpon>MenuGerente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuGerente.aspx.designer.cs">
+      <DependentUpon>MenuGerente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUsuario.aspx.cs">
+      <DependentUpon>MenuUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuUsuario.aspx.designer.cs">
+      <DependentUpon>MenuUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuVendedor.aspx.cs">
+      <DependentUpon>MenuVendedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuVendedor.aspx.designer.cs">
+      <DependentUpon>MenuVendedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Metodos\Administrador.cs" />
+    <Compile Include="Metodos\conexion.cs" />
+    <Compile Include="Metodos\Distribuidor.cs" />
+    <Compile Include="Metodos\IAdministrador.cs" />
+    <Compile Include="Metodos\Iconexion.cs" />
+    <Compile Include="Metodos\IDistribuidor.cs" />
+    <Compile Include="Metodos\IMantenimiento.cs" />
+    <Compile Include="Metodos\IUsuario.cs" />
+    <Compile Include="Metodos\IVendedor.cs" />
+    <Compile Include="Metodos\Mantenimiento.cs" />
+    <Compile Include="Metodos\Usuario.cs" />
+    <Compile Include="Metodos\Vendedor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Maestra.Master" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Temas\Login\css\bootstrap-theme.css.map" />
+    <None Include="Temas\Login\css\bootstrap.css.map" />
+    <None Include="Temas\Login\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="Temas\Login\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="Temas\Login\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="Temas\Login\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Temas\MasterPage\fonts\fontawesome-webfont.woff" />
+    <None Include="Temas\MasterPage\fonts\FontAwesome.otf" />
+    <None Include="Temas\MasterPage\fonts\glyphicons-halflings-regular.woff" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>5941</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
